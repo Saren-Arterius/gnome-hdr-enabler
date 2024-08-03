@@ -1,0 +1,6 @@
+{
+    "name": "HDR Enabler",
+    "description": "Enables HDR for specific applications",
+    "uuid": "hdr-enabler@wtako.net",
+    "shell-version": ["46"]
+}

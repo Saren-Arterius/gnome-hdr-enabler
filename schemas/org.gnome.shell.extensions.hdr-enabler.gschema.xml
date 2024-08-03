@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hdr-enabler" path="/org/gnome/shell/extensions/hdr-enabler/">
+    <key name="hdr-apps" type="s">
+      <default>'[]'</default>
+      <summary>HDR-enabled applications</summary>
+      <description>List of applications with their WM class and optional argument for HDR</description>
+    </key>
+    <key name="is-first-run" type="b">
+      <default>true</default>
+      <summary>First run flag</summary>
+      <description>Indicates whether this is the first time the extension is run</description>
+    </key>
+  </schema>
+</schemalist>
